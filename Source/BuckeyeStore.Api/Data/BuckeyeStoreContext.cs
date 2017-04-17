@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using BuckeyeStore.Core;
-using Microsoft.EntityFrameworkCore.UseInMemoryDatabase;
+//using Microsoft.EntityFrameworkCore.InMemory;
 
 namespace BuckeyeStore.Api.Data
 {

@@ -5,7 +5,7 @@ using BuckeyeStore.Api.Data;
 using Microsoft.AspNetCore.Mvc;
 using BuckeyeStore.Core;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.UseInMemoryDatabase;
+//using Microsoft.EntityFrameworkCore.UseInMemoryDatabase;
 using System.Linq;
 
 namespace BuckeyeStore.Api.Tests
