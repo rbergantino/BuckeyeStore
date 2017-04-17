@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F7F4FB4E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuckeyeStore.Core.Tests", "Tests\BuckeyeStore.Core.Tests\BuckeyeStore.Core.Tests.csproj", "{57C1559C-985B-4337-B843-AB79CE5D161B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuckeyeStore.Api", "Source\BuckeyeStore.Api\BuckeyeStore.Api.csproj", "{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,9 +50,22 @@ Global
 		{57C1559C-985B-4337-B843-AB79CE5D161B}.Release|x64.Build.0 = Release|x64
 		{57C1559C-985B-4337-B843-AB79CE5D161B}.Release|x86.ActiveCfg = Release|x86
 		{57C1559C-985B-4337-B843-AB79CE5D161B}.Release|x86.Build.0 = Release|x86
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|x64.ActiveCfg = Debug|x64
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|x64.Build.0 = Debug|x64
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|x86.ActiveCfg = Debug|x86
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Debug|x86.Build.0 = Debug|x86
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|x64.ActiveCfg = Release|x64
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|x64.Build.0 = Release|x64
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|x86.ActiveCfg = Release|x86
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EA0ECF11-7D1F-4AFE-87D3-74CA54FE127B} = {11F27A7C-772D-4033-8EB2-764694FE4D1A}
 		{57C1559C-985B-4337-B843-AB79CE5D161B} = {F7F4FB4E-8B36-4DFD-9004-2335CE963296}
+		{DE1458E6-09EE-40D9-A555-E7E2ACD136B6} = {11F27A7C-772D-4033-8EB2-764694FE4D1A}
 	EndGlobalSection
 EndGlobal
